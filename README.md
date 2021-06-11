@@ -1,4 +1,4 @@
-# Error-Correcting-Encoder-Decoder
+# Error Correcting Encoder Decoder
 
 This project is built using a gradle.
 Write down the text you want to transfer to the send.txt file
